@@ -1,5 +1,5 @@
 # scDGCL: A Dual-level and Graph-constrained Contrastive Learning Method for Single-cell RNA Sequencing Data Clustering
-![model](scDGCL.png)
+![model](scDGCL/scDGCL.pngn
 ## Requirements
 - python : 3.8.19
 - scanpy : 1.8.2
@@ -38,3 +38,4 @@ If you find the data preprocessing process cumbersome, we also provide all the p
 cd scDGCL
 python main.py
 ```
+
